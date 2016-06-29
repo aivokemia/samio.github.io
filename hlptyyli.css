@@ -1,8 +1,8 @@
 h1 {
 color: #1D1D1D;
 font-family: verdana;
-font-size: 300%;
-text-align: justify;
+font-size: auto;
+text-align: center;
 padding: 10px;
 }
 p  {
