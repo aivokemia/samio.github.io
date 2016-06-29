@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Hehkulamppup&#228;&#228; Tietoja</title>
+<style>
+h1 {
+color: #1D1D1D;
+font-family: verdana;
+font-size: 300%;
+text-align: center;
+padding: 10px;
+}
+p  {
+color: #1D1D1D;
+font-family: verdana;
+font-size: 100%;
+text-align: center;
+padding: 10px;
+}
+img {
+width:666px;
+height:444px;
+display: block;
+margin: auto;
+}
+</style>
+</head>
+<body style="background-color:#EEEEEE">
+
+<h1>Hehkulamppup&#228;&#228;</h1>
+
+<p>Mitä? Missä? Milloin? o.o</p>
+
+</body>
+</html>
