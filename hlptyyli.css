@@ -1,3 +1,13 @@
+body {
+    background-color: #EEEEEE;
+}
+footer {
+    background-color: #CBDC5C;
+    color: #1D1D1D;
+    clear:both;
+    text-align: center;
+    padding: 5px;
+}
 li {
     float: left;
     display: inline;
@@ -10,6 +20,7 @@ li a {
     text-decoration: none;
     font-family: verdana;
     font-size: 150%;
+    transition: .9s background-color;
 }
 li a:hover {
     background-color: #8E8E8E;
