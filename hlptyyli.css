@@ -4,6 +4,7 @@
     background-color: #EEEEEE;
 }
 #footer {
+    background-color: #EEEEEE;
     color: #1D1D1D;
     clear:both;
     text-align: center;
@@ -16,7 +17,6 @@ li {
 }
 li a {
     display: block;
-    padding: 14px 16px;
     text-align: center;
     color: #1D1D1D;
     text-decoration: none;
