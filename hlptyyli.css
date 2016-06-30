@@ -7,6 +7,7 @@ footer {
     clear:both;
     text-align: center;
     padding: 5px;
+    font-family: verdana;
 }
 li {
     float: left;
@@ -20,7 +21,7 @@ li a {
     text-decoration: none;
     font-family: verdana;
     font-size: 150%;
-    transition: .9s background-color;
+    transition: .5s background-color;
 }
 li a:hover {
     background-color: #8E8E8E;
