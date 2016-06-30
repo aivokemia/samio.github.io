@@ -1,25 +1,26 @@
 h1 {
-color: #1D1D1D;
-font-family: verdana;
-font-size: auto;
-text-align: center;
-padding: 10px;
+    color: #1D1D1D;
+    font-family: verdana;
+    font-size: auto;
+    text-align: center;
+    padding: 10px;
 }
 p  {
-color: #1D1D1D;
-font-family: verdana;
-font-size: 150%;
-text-align: center;
-padding: 10px;
+    color: #1D1D1D;
+    font-family: verdana;
+    font-size: 150%;
+    text-align: center;
+    padding: 10px;
 }
 img {
     max-width:100%;
-width:666px;
-height:auto;
-display: block;
-margin: auto;
+    width:666px;
+    height:auto;
+    display: block;
+    margin: auto;
 }
-ul {list-style-type: none;
+ul {
+    list-style-type: none;
     margin: 0;
     padding: 0;
     overflow: hidden;
