@@ -3,7 +3,7 @@ body {
 }
 #body {
     background-color: #EEEEEE;
-    padding: 20px;
+    padding: 0px;
 }
 #footer {
     background-color: #EEEEEE;
@@ -12,6 +12,7 @@ body {
     text-align: center;
     padding: 10px;
     font-family: verdana;
+    font-size: 50%;
     position: fixed;
     bottom: 0;
     width: 100%;
