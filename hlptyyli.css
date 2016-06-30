@@ -1,7 +1,7 @@
-body {
+#body {
     background-color: #EEEEEE;
 }
-footer {
+#footer {
     color: #1D1D1D;
     clear:both;
     text-align: center;
