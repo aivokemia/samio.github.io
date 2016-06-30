@@ -9,12 +9,12 @@ body {
     color: #1D1D1D;
     clear:both;
     text-align: center;
-    padding: 5px;
+    padding: 10px;
     font-family: verdana;
     position: fixed;
     bottom: 0;
     width: 100%;
-    height: 50px;
+    height: 30px;
 }
 li {
     float: left;
