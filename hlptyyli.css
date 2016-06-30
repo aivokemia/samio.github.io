@@ -12,8 +12,6 @@ body {
     padding: 5px;
     font-family: verdana;
     position: relative;
-    margin-top: -180px;
-    height: 180px;
 }
 li {
     float: left;
