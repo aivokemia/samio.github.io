@@ -43,3 +43,6 @@ img {
     display: block;
     margin: auto;
 }
+. active {
+    background-color: #CBDC5C;
+}
