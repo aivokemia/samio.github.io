@@ -49,6 +49,13 @@ ul {
     overflow: hidden;
     background-color: #EEEEEE;
 }
+h1 {
+    color: #1D1D1D;
+    font-family: verdana;
+    font-size: auto;
+    text-align: center;
+    padding: 10px;
+}
 p  {
     color: #1D1D1D;
     font-family: verdana;
