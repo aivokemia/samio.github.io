@@ -2,6 +2,9 @@ body {
     background-color: #EEEEEE;
 }
 #section {
+    width:100%;
+    float:left;
+    padding:10px;
     background-color: #EEEEEE;
     text-align:center;
 }
