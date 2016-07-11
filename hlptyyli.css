@@ -5,14 +5,14 @@ body {
     height: auto;
 }
 #body {
-    height:auto;
+    height: auto;
     width: auto;
     padding: 0px;
 }
 #footer {
-    clear:both;
-    text-align:Right;
-    padding:5px
+    clear: left;
+    text-align: Right;
+    padding: 5px
 }
 li {
     float: left;
