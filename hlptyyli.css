@@ -10,8 +10,8 @@ body {
     padding: 0px;
 }
 #footer {
-    clear: left;
-    text-align: Right;
+    clear: both;
+    text-align: left;
     padding: 5px
 }
 li {
