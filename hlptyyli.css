@@ -4,8 +4,8 @@ body {
 }
 #body {
     width:100%;
-    height:1000px;
     padding: 0px;
+    clear:both;
 }
 #footer {
     font-family: verdana;
