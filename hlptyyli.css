@@ -13,8 +13,10 @@ body {
     clear: both;
     font-size: 70%;
     text-align: left;
+    text-indent: 20px;
     background-color: #6E6E6E;
     padding: 5px
+    height: 30px;
     position: fixed;
     bottom: 0;
     border-radius: 25px;
