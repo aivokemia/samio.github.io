@@ -10,6 +10,7 @@ body {
     padding: 0px;
 }
 #footer {
+    border-radius: 25px;
     clear: both;
     font-size: 65%;
     text-align: left;
@@ -19,7 +20,6 @@ body {
     height: 150px;
     position: fixed;
     bottom: 0;
-    border-radius: 25px;
 }
 li {
     float: left;
