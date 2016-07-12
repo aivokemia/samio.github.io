@@ -11,10 +11,10 @@ body {
 }
 #footer {
     clear: both;
-    font-size: 75%;
+    font-size: 70%;
     text-align: left;
     background-color: #6E6E6E;
-    padding: 0px
+    padding: 5px
     width: auto;
     height: auto;
     position: fixed;
