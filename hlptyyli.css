@@ -10,14 +10,12 @@ body {
     padding: 0px;
 }
 #footer {
-    border-radius: 25px;
+    border-radius: 5px;
     clear: both;
     font-size: 65%;
     text-align: left;
     background-color: #6E6E6E;
-    padding: 20px
-    width: 500px;
-    height: 150px;
+    padding: 5px
     position: fixed;
     bottom: 0;
 }
