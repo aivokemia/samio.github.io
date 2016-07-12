@@ -19,6 +19,7 @@ body {
     height: auto;
     position: fixed;
     bottom: 0;
+    border-radius: 25px;
 }
 li {
     float: left;
