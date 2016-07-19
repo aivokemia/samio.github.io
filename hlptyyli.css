@@ -39,6 +39,10 @@ li a:hover {
 li a:hover:not(.active) {
     background-color: #8E8E8E;
 }
+.container-fluid {
+    width: 300px;
+    margin: 0 auto;
+}
 .active {
     background-color: #E1E1E1;
 }
@@ -65,8 +69,4 @@ img {
     height:auto;
     display: block;
     margin: auto;
-}
-audio {
-    width: 300px;
-    margin: 0 auto;
 }
