@@ -66,3 +66,7 @@ img {
     display: block;
     margin: auto;
 }
+audio {
+    width: 300px;
+    margin: 0 auto;
+}
