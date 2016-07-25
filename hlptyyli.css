@@ -69,7 +69,7 @@ img {
     height:auto;
     padding: 5px;
     border-width: 5px;
-    border-style: outset;
+    border-style: dashed dashed solid dashed;
     border-color:#8E8E8E;
     display: block;
     margin: auto;
