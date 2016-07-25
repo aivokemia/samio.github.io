@@ -67,6 +67,7 @@ img {
     max-width:100%;
     width:666px;
     height:auto;
+    padding: 5px;
     display: block;
-    margin: 5px;
+    margin: auto;
 }
