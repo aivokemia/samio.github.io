@@ -13,7 +13,7 @@ body {
     clear: both;
     font-size: 65%;
     text-align: left;
-    background-color: #EEEEEE;
+    background-color: #5cc1af;
     padding: 0px
     height: 30px;
     position: fixed;
@@ -51,7 +51,7 @@ ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #EEEEEE;
+    background-color: #5cc1af;
 }
 h1 {
     font-size: auto;
