@@ -1,5 +1,5 @@
 body {
-    color: #1D1D1D;
+    color: #ffffff;
     font-family: verdana;
     background-color: #5cc1af;
     height: auto;
@@ -26,7 +26,7 @@ li {
 li a {
     display: block;
     padding: 14px 16px;
-    color: #1D1D1D;
+    color: #ffffff;
     text-align: center;
     text-decoration: none;
     font-size: 150%;
