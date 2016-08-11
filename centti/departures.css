@@ -1,0 +1,355 @@
+
+
+#stopareas {
+	width: 680px;
+}
+
+
+.stoparea-title {
+	 font-size: 15px;
+	 font-weight: bold;
+}
+
+
+.stopareas-left-col {
+	width: 330px;
+	float: left;
+}
+
+.stopareas-right-col {
+	width: 330px;
+	float: right;
+	
+/*	border: 1px solid black; */
+	
+}
+
+.stopareas-row-divider {
+	clear: both;
+	border-top: 1px solid #72BAE5;	
+}
+
+
+.departures-header {
+    color: #333;
+	font-family:  "Verdana";
+	font-size: 14px;
+    font-weight: bold;
+    height: 20px;
+    
+    padding: 10px 5px 0px 15px;
+    
+}
+
+
+.departures-header-title {
+	background-image: url("../images/star_pink.png");
+	
+	/*background-position: 5px 12px; */
+	
+	background-position: 0px 0px;
+	
+    background-repeat: no-repeat;
+    
+	/*padding: 10px 2px 0px 25px;*/
+	padding: 0px 0px 0px 22px;
+	
+	float: left;
+	
+	height: 18px;
+}
+
+.departures-header-id {
+	font-weight: normal;
+	color: #72BAE5;
+	font-size: 12px;
+	padding-left: 4px;
+}
+
+.departures-header-clock {
+	background-image: url("../images/clock2.png");
+	background-repeat: no-repeat;
+	background-position: 0px 0px;
+	
+	padding: 1px 5px 0px 22px;
+	float: right;
+	
+	font-size: 12px;
+	height: 16px;
+}
+
+.departures-header-clock:hover {
+	cursor: pointer;
+}
+
+
+.departures-content {
+   
+    padding: 5px;
+}
+
+.departures-header-tools {
+    color: #FFFFFF;
+    float: right;
+    font-size: 10px;
+    font-style: italic;
+    
+    padding: 0px 4px 0px 0px;
+    
+    /*padding: 2px 4px 2px 2px;*/
+    /*padding: 10px 2px 0px 5px;*/
+}
+
+
+
+.departures-table {
+	width: 100%;
+	background-color: #DFEDF5;
+}
+
+
+.departures-table .header-row {
+    background-color: #72BAE5;
+}
+
+
+.departures-table .alt-row {
+    background-color: #FFFFFF;
+}
+
+
+
+.departures-table th {
+	color: #FFFFFF;
+	
+	font-family: "Verdana";
+	font-size: 11px;
+	font-weight: normal;
+	
+	text-align: left;	
+	
+	padding-bottom: 3px;
+	
+	/*	padding-right: 5px; */
+	
+	line-height: 20px;	
+}
+
+.departures-table td {
+	color: #333;
+	font-family: "Verdana";
+	font-size: 13px;
+	
+/*	padding-right: 5px; */
+	
+	
+	text-align: left;
+	
+	line-height: 25px;
+	
+}
+
+.departures-table td.time-col, th.time-col  {
+   padding-left: 12px;
+   text-align: left;
+   width: 60px;
+}
+
+.departures-table td.time-col {
+	 font-weight: bold; 
+}
+
+
+.departures-table td.line-col, th.line-col {
+	text-align: left;
+   	width: 40px;
+}
+
+.departures-table td.line-col, .departures-table td.line-col a  {
+	color: #007AC9;
+	font-weight: bold;
+}
+
+
+.departures-table td.dest-col, th.dest-col  {
+   	text-align: left;	
+}
+
+
+.departures-table td.dest-col-clip, th.dest-col-clip  {
+   	text-align: left;
+	width: 150px; 
+}
+
+.departures-table div.dest-col-clip {
+	width: 150px;
+	overflow: hidden;
+	white-space:nowrap;
+	text-overflow:ellipsis;
+ 	/* border: 1px solid black; */ 
+}
+
+
+
+.departures-table td.stop-col, th.stop-col  {
+   padding-right: 5px;
+   text-align: right;
+}
+
+
+.departures-table td.30-col {
+	width: 30px;
+}
+
+.t-left {
+	 text-align: left;
+}
+
+.t-right {
+	 text-align: right;
+}
+
+
+
+.departures-actions {
+	padding: 2px 5px 2px 10px;	
+}
+
+
+#stopareas-select {
+/*	width: 290px; */
+	width: 185px; 
+/*	width: 200px;  */
+}
+
+
+.margin-10 {
+	margin-top: 10px;
+}
+
+
+/*****************************************/
+
+
+#stopareas-data {
+	float: left;
+}
+
+
+#add-stop {
+/*	margin: 15px 0 0 10px; */
+	margin: 10px 0 0 10px;
+	float: left;	
+	width: 190px;
+}
+
+#add-stop .departures-header-clock {
+	font-weight: bold;
+	float: none;
+	padding-bottom: 9px; 
+}
+
+
+
+#add-stop input {
+	width: 185px;
+}
+
+#add-stop h2 {
+	padding-left: 0px;
+	font-size: 20px;
+}
+
+#add-stop a {
+	font-size: 12px;
+}
+
+#add-stop .divider {
+	 border-top: 1px solid #72BAE5;
+	 margin-bottom: 10px;
+}
+
+
+
+/*
+.example-stop {
+    background-color: #FFFFFF;
+    border-radius: 5px 5px 5px 5px;
+    padding: 10px;
+    margin: 10px 20px 10px 20px;
+}
+
+*/
+
+
+.example-stop:after {
+    border-color: #fff transparent;
+    border-style: solid;
+    border-width: 10px 10px 0;
+    bottom: -10px;
+    content: "";
+    display: block;
+    left: 20px;
+    position: absolute;
+    width: 0;
+}
+
+.example-stop {
+    background-color: #fff;
+    border-radius: 5px;
+    color: #333333;
+    padding: 10px;
+    position: relative;   
+    margin: 10px 20px 10px 20px;
+}
+
+
+
+
+.copy-ol-timetable {
+    color: #333;
+	font-family:  "Verdana";
+	font-size: 14px;
+    font-weight: bold;
+    height: 20px;
+    padding: 10px 5px 0px 15px;
+    
+}
+
+
+.copy-ol-cb {
+	height: 18px;
+	float: left;
+}
+
+.copy-ol-title {
+	background-image: url("../images/star_p.png");
+	background-position: 0px 0px;
+	
+    background-repeat: no-repeat;
+	padding: 0px 0px 0px 22px;
+	float: left;
+	height: 18px;
+}
+
+
+span.disabled {
+	color: #a1a1a1; 
+	font-style: italic; 
+}
+
+#stopareas-clock {
+	padding: 15px;
+}
+
+
+#stopareas-clock .departures-header-clock {
+	font-weight: bold;
+	float: none;
+}
+
+#stop-routesearch {
+	display: none;
+}
+
+
