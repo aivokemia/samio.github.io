@@ -1,72 +1,50 @@
-body {
-    color: #ffffff;
-    font-family: verdana;
-    background-color: #5cc1af;
-    height: auto;
+   html {
+       position: relative;
+       min-height:100%
 }
-#body {
-    height: auto;
-    width: auto;
-    padding: 0px;
+   body {
+       font-family: verdana;
+       height: 100%;
+       width: 100%;
+       margin: 0 0 0 0;
+       background-color: #f9f2ec;
 }
-#footer {
-    clear: both;
-    font-size: 65%;
-    text-align: left;
-    background-color: #5cc1af;
-    padding: 0px
-    height: 30px;
-    position: fixed;
-    bottom: 0;
+   header {
+       height: auto;
+       width: 100%;
+       position: absolute;
+       top: 0;
+       background-color: #adebdc;
+       text-align: center;
 }
-li {
-    float: left;
-    display: inline;
+   header a {
+       display: inline-block;
+       font-size: 150%;
+       color: #4b4235;
+       text-decoration: none;
+       margin: 10px;
 }
-li a {
-    display: block;
-    padding: 14px 16px;
-    color: #ffffff;
-    text-align: center;
-    text-decoration: none;
-    font-size: 150%;
-    transition: .5s background-color;
+   footer {
+       position: absolute;
+       height: 20px;
+       padding-top: 1%;
+       padding-bottom: 1%;
+       width: 100%;
+       bottom: 0;
+       background-color: #bfbfbf;
+       text-align: center;
+       overflow: hidden;
+       margin: auto;
 }
-li a:hover {
-    background-color: #8E8E8E;
-    color: white;
+   h1 {
+       color: #4b4235;
 }
-li a:hover:not(.active) {
-    background-color: #8E8E8E;
+   h2 {
+       border-bottom: 1px solid #ff0000;
+       padding-left: 25%;
+       color: #4b4235;
 }
-.container-fluid {
-    width: 300px;
-    margin: 0 auto;
-}
-.active {
-    background-color: #E1E1E1;
-}
-ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-    background-color: #5cc1af;
-}
-h1 {
-    font-size: auto;
-    text-align: center;
-    padding: 10px;
-}
-p  {
-    font-size: 150%;
-    text-align: center;
-    padding: 10px;
-}
-img {
-    max-width:100%;
-    width:666px;
-    height:auto;
-    display: block;
-    margin: auto;
+   p {
+       padding-left: 25%;
+       color: #4b4235;
 }
