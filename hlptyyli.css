@@ -54,3 +54,10 @@
        padding-left: 25%;
        color: #4b4235;
 }
+img {
+       max-width:100%;
+       width:666px;
+       height:auto;
+       display: block;
+       margin: auto;
+}
