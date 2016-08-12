@@ -9,6 +9,21 @@
        margin: 0 0 0 0;
        background-color: #f9f2ec;
 }
+   header {
+       height: auto;
+       width: 100%;
+       position: absolute;
+       top: 0;
+       background-color: #adebdc;
+       text-align: center;
+}
+   header a {
+       display: inline-block;
+       font-size: 150%;
+       color: #4b4235;
+       text-decoration: none;
+       margin: 10px;
+}
    footer {
        position: absolute;
        height: 20px;
