@@ -9,7 +9,7 @@
        margin: 0 0 0 0;
        background-color: #f9f2ec;
 }
-   header {
+   #header {
        height: auto;
        width: 100%;
        position: absolute;
@@ -23,6 +23,12 @@
        color: #4b4235;
        text-decoration: none;
        margin: 10px;
+}
+   #sisalto {
+       height: auto;
+       width: 100%;
+       position: absolute;
+       top: 0;
 }
    footer {
        position: absolute;
