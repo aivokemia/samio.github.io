@@ -30,17 +30,6 @@
        position: absolute;
        top: 170px;
 }
-   footer {
-       position: absolute;
-       height: 20px;
-       padding-top: 1%;
-       padding-bottom: 1%;
-       width: 100%;
-       background-color: #bfbfbf;
-       text-align: center;
-       overflow: hidden;
-       margin: auto;
-}
    h1 {
        color: #4b4235;
 }
