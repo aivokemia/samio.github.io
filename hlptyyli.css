@@ -1,6 +1,6 @@
    html {
        position: relative;
-       min-height:110%;
+       min-height:115%;
 }
    body {
        font-family: 'Lobster', cursive;
@@ -31,8 +31,12 @@
        top: 170px;
 }
    footer {
+       padding: 50px;
+       width: 100%;
        position: absolute;
        bottom: 0;
+       color: #f9f2ec;
+       background-color: #4b4235;
 }
    h1 {
        color: #4b4235;
