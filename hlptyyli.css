@@ -8,10 +8,14 @@
       
    }
    p {
-      
+      margin-left:20%;
    }
    img {
-      
+      max-width:100%;
+      width:666px;
+      height:auto;
+      display: block;
+      margin: auto;
    }
    body {
       font-family: 'lobster', cursive;
