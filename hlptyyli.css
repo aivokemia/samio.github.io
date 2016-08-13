@@ -20,17 +20,28 @@
       text-align: center;
    }
    nav {
-      float: left;
-      max-width: 160px;
-      margin: 0;
-      padding: 1em;
+      max-width: 100%;
    }
-   nav ul {
+   ul {
       list-style-type: none;
+      margin: 0;
       padding: 0;
+      overflow: hidden;
+      background-color: #adebdc;
    }
-   nav ul a {
+   li {
+      float: left;
+   }
+   li a {
+      display: block;
+      color: #4b4235;
+      text-align: center;
+      padding: 16px;
       text-decoration: none;
+   }
+   li a:hover {
+      background-color: #4b4235;
+      color: #4b4235;
    }
    article {
       margin-left: 170px;
