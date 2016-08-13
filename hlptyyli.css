@@ -1,3 +1,18 @@
+   h1 {
+      
+   }
+   h2 {
+      
+   }
+   h3 {
+      
+   }
+   p {
+      
+   }
+   img {
+      
+   }
    body {
       font-family: 'lobster', cursive;
       margin: 0 0 0 0;
@@ -41,6 +56,7 @@
       background-color: #99e6d3;
    }
    article {
-      margin-left: 150px;
+      background-color: #f9f2ec;
+      color: #adebdc;
       padding: 1em;
       overflow: hidden;
