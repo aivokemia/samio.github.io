@@ -62,6 +62,9 @@
    a:hover {
       background-color: #99e6d3;
    }
+   .active {
+      background-color: #99e6d3;
+   }
    article {
       background-color: #f9f2ec;
       color: #4b4235;
