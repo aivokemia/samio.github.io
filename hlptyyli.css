@@ -43,6 +43,7 @@
        color: #4b4235;
 }
    p1 {
+      width: 100%;
        padding-left: 10%;
        background-color: #A4A4A4;
        color: #f9f2ec;
@@ -52,5 +53,6 @@ img {
        width:666px;
        height:auto;
        display: block;
-       margin: 5px;
+       margin: auto;
+       padding: 10px;
 }
