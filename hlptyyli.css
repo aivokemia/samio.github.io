@@ -26,6 +26,7 @@
       background-color: #adebdc;
       clear: left;
       text-align: center;
+      font-size: 150%;
    }
    footer {
       padding: 1em;
@@ -35,6 +36,7 @@
       text-align: center;
    }
    #nav {
+      font-size: 200%;
       text-align: center;
       list-style: none;
       margin: 0;
