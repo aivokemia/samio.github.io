@@ -66,6 +66,7 @@
       background-color: #99e6d3;
    }
    article {
+      height: 100vh;
       background-color: #f9f2ec;
       color: #4b4235;
       padding: 1em;
