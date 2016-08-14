@@ -25,7 +25,7 @@
       width:100%;
    }
    header {
-      padding: 1em;
+      padding: 5px;
       color: #4b4235;
       background-color: #adebdc;
       clear: left;
@@ -44,7 +44,7 @@
       text-align: center;
       list-style: none;
       margin: 0;
-      padding: 0;
+      padding: 20px;
       background-color: #adebdc;
    }
    #nav li {
@@ -69,5 +69,6 @@
       height: 84vh;
       background-color: #f9f2ec;
       color: #4b4235;
-      padding: 1em;
+      font-size: 145%;
+      padding: 20px;
       overflow: hidden;
