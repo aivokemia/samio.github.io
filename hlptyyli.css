@@ -21,6 +21,10 @@
       display: block;
       margin: auto;
    }
+   audio {
+      width: 300px;
+      margin: 0;
+   }
    body {
       font-family: 'lobster', cursive;
       margin: 0 0 0 0;
