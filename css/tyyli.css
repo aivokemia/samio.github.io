@@ -14,6 +14,11 @@
       text-align: center;
       margin-left: 0;
    }
+   #img1 {
+      max-width: 100%;
+      display: block;
+      margin: auto;
+   }
    img {
       max-width:100%;
       width:666px;
