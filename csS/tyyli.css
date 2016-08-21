@@ -26,19 +26,16 @@
       margin: 0 auto;
    }
    body {
-      font-family: 'lobster', cursive;
+      font-family: 'Lobster', cursive;
       margin: 0 0 0 0;
    }
    div.container{
       width:100%;
    }
    header {
-      padding: 5px;
-      color: #4b4235;
       background-color: #adebdc;
       clear: left;
       text-align: center;
-      font-size: 150%;
    }
    footer {
       padding: 1em;
@@ -52,7 +49,7 @@
       text-align: center;
       list-style: none;
       margin: 0;
-      padding: 20px;
+      padding: 0px;
       background-color: #adebdc;
    }
    #nav li {
@@ -68,10 +65,13 @@
       text-decoration: none;
    }
    a:hover {
-      background-color: #99e6d3;
+      text-decoration: underline;
    }
    .active {
-      background-color: #99e6d3;
+      text-decoration: underline;
+   }
+   #a1:hover {
+      text-decoration: none;
    }
    article {
       height: 84vh;
